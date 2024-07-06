@@ -1,5 +1,5 @@
 ﻿##############################################################
-# File: bulk-jira-sprint-creation-1.01.ps1
+# File: bulk-jira-sprint-creation.ps1
 # Purpose: in Jira cloud create multiple sprints in one or many different projects
 #
 # Copyright (C) 2024 Andrew Newbury, andrew@exponentiallydigital.com
@@ -19,7 +19,7 @@
 #
 ###############################################################
 #
-# Version: 1.01, 2024-07-06 - public release for Jira Cloud (basic auth), added JSON raw debug display
+# Version: 1.01, 2024-07-07 - public release for Jira Cloud (basic auth), added JSON raw debug display
 # Version: 1.00a, 2024-07-05 - debugging disabled, only API returned strings
 # Version: 1.00, 2024-07-05 - limited release, DC oauth, full debuging enabled
 #
