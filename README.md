@@ -1,2 +1,2 @@
-# agile-tools
- Tools relting to Agile processes
+# bulk Jira Cloud sprint creation
+ Create multipl sprints in one or many different projects!
