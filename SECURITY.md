@@ -2,7 +2,7 @@
 
 ## Supported Versions
 
-This script is provoded as is, however please contact me if you identify a security issue.
+This script is provided as is, however please contact me if you identify a security issue.
 
 | Version  | Supported          |
 | -------- | ------------------ |
