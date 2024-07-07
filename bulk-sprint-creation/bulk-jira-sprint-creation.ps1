@@ -19,6 +19,7 @@
 #
 ###############################################################
 #
+# Version: 1.0.2, 2024-07-07 - bebug display dsabled
 # Version: 1.0.1, 2024-07-07 - public release for Jira Cloud (basic auth), added JSON raw debug display
 # Version: 1.0.0a, 2024-07-05 - debugging disabled, only API returned strings
 # Version: 1.0.0, 2024-07-05 - limited release, DC oauth, full debuging enabled
@@ -58,7 +59,7 @@
 # Make edits here:
 #
 # Display debugging output as this script executes
-$DebugMode = $true # Set to $true to enable, $false to disable
+$DebugMode = $false # Set to $true to enable, $false to disable
 #
 # Set API access token
 $accessToken = "a-very-long-base64-encoded-string-of-letters-and-numbers"
