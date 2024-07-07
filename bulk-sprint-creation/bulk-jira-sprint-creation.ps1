@@ -19,7 +19,7 @@
 #
 ###############################################################
 #
-# Version: 1.0.2, 2024-07-07 - bebug display dsabled
+# Version: 1.0.2, 2024-07-07 - debug display disabled
 # Version: 1.0.1, 2024-07-07 - public release for Jira Cloud (basic auth), added JSON raw debug display
 # Version: 1.0.0a, 2024-07-05 - debugging disabled, only API returned strings
 # Version: 1.0.0, 2024-07-05 - limited release, DC oauth, full debuging enabled
