@@ -28,7 +28,8 @@
 # Initial set up:
 #
 #   1. create an API token via https://id.atlassian.com/manage-profile/security/api-tokens
-#   2. use the included script "create-token-prompted.ps1" to concatenate your atlassian email address with the token and base64 encode the result
+#       for detailed iinstructions see https://support.atlassian.com/atlassian-account/docs/manage-api-tokens-for-your-atlassian-account/
+#   3. use the included script "create-token-prompted.ps1" to concatenate your atlassian email address with the token and base64 encode the result
 #
 # In the section "Make edits here" set the following:
 #
